@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[dir='rtl'] {
+  direction: rtl;
+}
+
+[dir='rtl'] .space-x-2 > * + *,
+[dir='rtl'] .space-x-3 > * + *,
+[dir='rtl'] .space-x-4 > * + * {
+  margin-left: 0;
+}
+
+[dir='rtl'] .space-x-2 > * + * {
+  margin-right: 0.5rem;
+}
+
+[dir='rtl'] .space-x-3 > * + * {
+  margin-right: 0.75rem;
+}
+
+[dir='rtl'] .space-x-4 > * + * {
+  margin-right: 1rem;
+}
+
+html[dir='rtl'] {
+  text-align: right;
+}
+
+html[lang='ar'] body,
+html[lang='ar'] input,
+html[lang='ar'] textarea,
+html[lang='ar'] button {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html[lang='zh'] body,
+html[lang='zh'] input,
+html[lang='zh'] textarea,
+html[lang='zh'] button {
+  font-family: 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
+}

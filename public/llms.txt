@@ -1,0 +1,49 @@
+# Fluent Future Academy
+
+> Fluent Future Academy is a professional language education and integration center based in Massachusetts, United States. Founded by Hanane Benalia, a healthcare language professional with 16 years of experience.
+
+## About
+Fluent Future Academy bridges the gap between language learning and real-world professional access. We offer hybrid programs in interpreter training, ESL for professionals, global communication, and foreign languages.
+
+## Pages
+- [Home](/): Overview of Fluent Future Academy programs and mission.
+- [About](/about): Founder story, mission, and the academy's approach.
+- [Programs](/programs): Full catalog of interpreter, ESL, and language programs.
+- [Interpreter Training](/programs/interpreter): Community and medical interpreter training.
+- [ESL for Professionals](/programs/esl): Beginner, intermediate, and advanced ESL.
+- [Global Communication](/programs/communication): Cross-cultural and public speaking programs.
+- [Foreign Languages](/programs/languages): Spanish, French, Arabic, and Mandarin.
+- [Articles](/articles): Insights on language learning, interpreting, and ESL education.
+- [Corporate Training](/corporate): Language and communication programs for organizations.
+- [Careers](/teacher-application): Open roles for instructors and staff.
+- [Privacy Policy](/privacy-policy): How we handle personal data.
+- [Terms & Conditions](/terms-and-conditions): Terms of service.
+- [Refund Policy](/refund-policy): Refund and cancellation terms.
+
+## Programs
+- 60-hour Community Interpreter Training
+- 40-hour Medical Interpreter Fundamentals
+- ESL for Professionals: Beginner, Intermediate, and Advanced
+- Global Meeting Communication
+- Cross-Cultural Intelligence for Professionals
+- Public Speaking for Global Audiences
+- Spanish, French, Arabic, and Mandarin for Travel & Business
+
+## Contact
+- Email: hben@fluentfutureacademy.org
+- Inquiries: inquiries@fluentfutureacademy.org
+- Admissions: admissions@fluentfutureacademy.org
+- Partnerships: partnerships@fluentfutureacademy.org
+- Phone: 781-985-4558
+- Location: Massachusetts, United States
+
+## Membership
+- ATA Member — American Translators Association
+
+## Governance
+Governed by the laws of the Commonwealth of Massachusetts, United States.
+
+## Policies
+- Privacy Policy: available on website
+- Refund Policy: available on website
+- Terms & Conditions: available on website
