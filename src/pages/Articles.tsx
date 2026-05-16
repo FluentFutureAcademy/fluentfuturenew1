@@ -7,7 +7,7 @@ import { setSEO } from '../utils/seo';
 export default function Articles() {
   useEffect(() => {
     setSEO({
-      fullTitle: 'Articles | Language Learning & ESL Education | Fluent Future Academy',
+      fullTitle: 'Articles | Fluent Future Academy',
       description: 'Read expert articles on language learning, interpreter training, ESL education, and professional communication from Fluent Future Academy.',
       canonicalPath: '/articles',
       ogType: 'website',
