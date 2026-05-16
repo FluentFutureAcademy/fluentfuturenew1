@@ -132,7 +132,7 @@ export const articles: Article[] = [
   {
     id: 'communication-skills-healthcare-professionals',
     title: 'Communication Skills for Healthcare Professionals',
-    excerpt: 'Essential communication strategies that healthcare professionals need to deliver patient-centered care, build trust, and work effectively in diverse medical teams.',
+    excerpt: 'Expert insights on healthcare communication and language access. Improve patient care through effective multilingual communication.',
     icon: BookOpen,
     color: 'from-blue-500 to-emerald-500',
     content: {

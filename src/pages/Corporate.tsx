@@ -15,8 +15,8 @@ export default function Corporate() {
 
   useEffect(() => {
     setSEO({
-      fullTitle: 'Corporate Language Training | Healthcare Communication | Fluent Future Academy',
-      description: 'Customized corporate language training for healthcare systems and global organizations. Build communication excellence and cultural intelligence across your team.',
+      fullTitle: 'Corporate Training | Fluent Future Academy',
+      description: 'Professional language and communication training for corporate teams. Build global communication skills with expert coaching and AI tools.',
       canonicalPath: '/corporate',
       ogType: 'website',
       jsonLd: {

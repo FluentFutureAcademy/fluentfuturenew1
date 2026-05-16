@@ -16,8 +16,8 @@ export default function Home() {
 
   useEffect(() => {
     setSEO({
-      fullTitle: 'Fluent Future Academy | Professional Language & Interpreter Training',
-      description: 'Empowering professionals through language, communication, and career integration. Expert ESL, interpreter training, and global communication programs in Massachusetts.',
+      fullTitle: 'Fluent Future Academy | Language Training',
+      description: 'Professional language education combining AI tools with human coaching. ESL, interpreter training, and global communication programs in Massachusetts.',
       canonicalPath: '/',
       jsonLd: {
         '@context': 'https://schema.org',
