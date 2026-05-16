@@ -13,7 +13,9 @@ function walk(dir: string): string[] {
 }
 
 function extractCanonicalPaths(): string[] {
-  const files = walk(join(ROOT, 'src')).filter((f) => /\.(tsx?|jsx?)$/.test(f));
+  const files = walk(join(ROOT, 'src'))
+    .filter((f) => /\.(tsx?|jsx?)$/.test(f))
+    .filter((f) => !f.includes('__tests__') && !/\.(test|spec)\./.test(f));
   const paths = new Set<string>();
   for (const file of files) {
     const src = readFileSync(file, 'utf8');
